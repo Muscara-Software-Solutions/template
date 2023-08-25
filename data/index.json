@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": "7075ead5-6197-4060-85a4-bcbff211d1c5",
+            "name": "Kevin Muscara",
+            "email": "muscarak1@nku.edu"
+        },
+        {
+            "id": "b06dc136-995b-4148-915f-152d9d115efc",
+            "name": "Con Godsted",
+            "email": "godstedc1@nku.edu"
+        }
+    ]
+}
